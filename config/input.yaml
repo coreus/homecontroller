@@ -1,0 +1,43 @@
+solar_angle:
+    group: 0
+    type: Binary
+    nullValue: 'off'
+yr Cloudiness:
+    group: 1
+    type: Basic
+    normalize: 100
+zotac:
+    group: 2
+    type: Binary
+    nullValue: 'not_home'
+Sun:
+    group: 3
+    type: Sun
+FFmpeg Noise:
+    group: 4
+    type: Binary
+    nullValue: 'off'
+Samsung TV:
+    group: 5
+    type: Binary
+    nullValue: 'off'
+Salon:
+    group: 6
+    type: Binary
+    nullValue: 'off'
+DS Video Streaming:
+    group: 6
+    type: Binary
+    nullValue: 'off'
+yr Symbol:
+    group: 7
+    type: Basic
+    normalize: 50
+Squeezebox Touch:
+    group: 8
+    type: Binary
+    nullValue: 'off'
+Lux Salon:
+    group: 9
+    type: Basic
+    normalize: 2000
