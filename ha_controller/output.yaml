@@ -1,8 +1,0 @@
-ambiance:
-    group: 0
-    type: Binary
-    nullValue: 'off'
-lampadaire:
-    group: 1
-    type: Binary
-    nullValue: 'off'
